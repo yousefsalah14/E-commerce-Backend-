@@ -1,4 +1,4 @@
-import Joi from "joi";
+
 import joi from "joi";
 // sign up
 export const signUp = joi.object( {
